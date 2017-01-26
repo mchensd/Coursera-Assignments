@@ -1,2 +1,2 @@
 # coursera
-Assignments for Coursera HTML CSS and JS
+Mod 2 Final for Coursera HTML/CSS/JS
